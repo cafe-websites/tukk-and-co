@@ -1,0 +1,14 @@
+location:
+  address: shop 8/720 Bourke St, Docklands VIC 3008
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.806065014613!2d144.9491124!3d-37.818011299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65dcce77c6adf%3A0x98248d695ce8cf21!2sTukk%20and%20Co!5e0!3m2!1sen!2sau!4v1669618808292!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/tukknco/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0483 842 058
